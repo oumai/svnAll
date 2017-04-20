@@ -1,0 +1,58 @@
+10
+
+dir
+1409
+svn://liuxiang@192.168.1.188/ios/src/trunk/QieyouMerchantHD/Pods/Target%20Support%20Files
+svn://liuxiang@192.168.1.188/ios
+
+
+
+2015-03-18T08:15:07.559316Z
+84
+lisaiqiang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ff64b28-d3e5-4819-8d00-246157ec4e00
+
+Pods-JDStatusBarNotification
+dir
+
+Pods-PSTCollectionView
+dir
+
+Pods-DACircularProgress
+dir
+
+Pods-Reachability
+dir
+
+Pods-MWPhotoBrowser
+dir
+
+Pods
+dir
+
+Pods-MBProgressHUD
+dir
+
+Pods-BlocksKit
+dir
+
+Pods-ICViewPager
+dir
+
+Pods-SDWebImage
+dir
+

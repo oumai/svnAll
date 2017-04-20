@@ -1,0 +1,79 @@
+10
+
+dir
+1409
+svn://liuxiang@192.168.1.188/ios/src/trunk/QieyouMerchantHD/libs
+svn://liuxiang@192.168.1.188/ios
+
+
+
+2015-04-22T06:42:58.091838Z
+602
+lisaiqiang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ff64b28-d3e5-4819-8d00-246157ec4e00
+
+SQSegmentedControl
+dir
+
+BMYCircularProgressPullToRefresh
+dir
+
+SDPhotoBrowser
+dir
+
+MJRefresh
+dir
+
+SQAvatarBrowser
+dir
+
+SQTokenField
+dir
+
+SQPopover
+dir
+
+SQImagePlayerView
+dir
+
+HMSegmentedControl
+dir
+
+SQPopupViewController
+dir
+
+JTCalendar
+dir
+
+ELCImagePickerController
+dir
+
+JSON
+dir
+
+FSDropDownMenu
+dir
+
+SQTumblrHud
+dir
+
+QYS
+dir
+
+SQSegmentedViewController
+dir
+

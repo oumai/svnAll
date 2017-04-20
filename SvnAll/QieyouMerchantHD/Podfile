@@ -1,0 +1,9 @@
+
+pod 'BlocksKit', '~> 2.2.5'
+pod 'MWPhotoBrowser', '~> 1.4.1'
+pod 'JDStatusBarNotification', '~> 1.4.8'
+pod 'Reachability', '~> 3.1.1'
+pod 'ICViewPager', '~> 1.5.1'
+pod 'POP+MCAnimate', '~> 2.0.1'
+pod 'IQKeyboardManager', '~> 3.2.3'
+pod 'iVersion', '~> 1.11.4'

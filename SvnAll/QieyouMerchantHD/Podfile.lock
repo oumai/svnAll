@@ -1,0 +1,82 @@
+PODS:
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - DACircularProgress (2.2.0)
+  - ICViewPager (1.5.1)
+  - IQKeyboardManager (3.2.3)
+  - iVersion (1.11.4)
+  - JDStatusBarNotification (1.4.9)
+  - MBProgressHUD (0.9.1)
+  - MWPhotoBrowser (1.4.1):
+    - DACircularProgress
+    - MBProgressHUD (~> 0.8)
+    - PSTCollectionView (~> 1.2)
+    - SDWebImage (~> 3.7)
+  - pop (1.0.7)
+  - POP+MCAnimate (2.0.1):
+    - pop (~> 1.0)
+    - POP+MCAnimate/Animations (= 2.0.1)
+    - POP+MCAnimate/Group (= 2.0.1)
+    - POP+MCAnimate/Internal (= 2.0.1)
+    - POP+MCAnimate/Shorthand (= 2.0.1)
+    - POP+MCAnimate/Velocity (= 2.0.1)
+  - POP+MCAnimate/Animations (2.0.1):
+    - pop (~> 1.0)
+    - POP+MCAnimate/Group
+    - POP+MCAnimate/Internal
+    - POP+MCAnimate/Shorthand
+    - POP+MCAnimate/Velocity
+  - POP+MCAnimate/Group (2.0.1):
+    - pop (~> 1.0)
+  - POP+MCAnimate/Internal (2.0.1):
+    - pop (~> 1.0)
+  - POP+MCAnimate/Shorthand (2.0.1):
+    - pop (~> 1.0)
+  - POP+MCAnimate/Velocity (2.0.1):
+    - pop (~> 1.0)
+    - POP+MCAnimate/Internal
+  - PSTCollectionView (1.2.3)
+  - Reachability (3.1.1)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+
+DEPENDENCIES:
+  - BlocksKit (~> 2.2.5)
+  - ICViewPager (~> 1.5.1)
+  - IQKeyboardManager (~> 3.2.3)
+  - iVersion (~> 1.11.4)
+  - JDStatusBarNotification (~> 1.4.8)
+  - MWPhotoBrowser (~> 1.4.1)
+  - POP+MCAnimate (~> 2.0.1)
+  - Reachability (~> 3.1.1)
+
+SPEC CHECKSUMS:
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  DACircularProgress: 0f92b77239d5f3c612fc66185e2998391ac8e054
+  ICViewPager: 032dc71a50fe898e185fae6112ded4bed0e0523c
+  IQKeyboardManager: 6ca5c54e3776eb54af4c7caf515833f3cd761d59
+  iVersion: 2b6ffe708672cb494ba3cab150a94800c2892e81
+  JDStatusBarNotification: 373d8fcdc8d17e59babb818271c63c9a2f030ba4
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MWPhotoBrowser: 2531e682860d62b8a7ba8659de02eb9040e431e5
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  POP+MCAnimate: a99e209148c602512de487f1160a44bf78572024
+  PSTCollectionView: 6749df92885353521f55279a7ce2b293762e2be4
+  Reachability: dd9aa4fb6667b9f787690a74f53cb7634ce99893
+  SDWebImage: ed3095af2ff88b436426037444979b917f6c5575
+
+COCOAPODS: 0.36.0

@@ -1,0 +1,80 @@
+10
+
+dir
+1409
+svn://liuxiang@192.168.1.188/ios/src/trunk/QieyouMerchantHD/resource/images
+svn://liuxiang@192.168.1.188/ios
+
+
+
+2015-04-25T11:32:37.684878Z
+624
+lisaiqiang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ff64b28-d3e5-4819-8d00-246157ec4e00
+
+my-account
+dir
+
+items
+dir
+
+LaunchScreen-2048@2x.png
+file
+
+
+
+
+2015-09-14T15:04:41.000000Z
+ed614f5a5951533f05766dd13494eaa3
+2015-03-18T08:15:07.559316Z
+84
+lisaiqiang
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+123932
+
+main
+dir
+
+common
+dir
+
+login
+dir
+
+post-code
+dir
+

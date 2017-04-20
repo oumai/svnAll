@@ -1,0 +1,41 @@
+//
+//  PrefixHeader.pch
+//  QieYouShop
+//
+//  Created by LiYongQiang on 15/1/28.
+//  Copyright (c) 2015年 CoderFly. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <QuartzCore/QuartzCore.h>
+    #import <CoreLocation/CoreLocation.h>
+    #import <CoreGraphics/CoreGraphics.h>
+    #import <Accelerate/Accelerate.h>
+
+    #import "QYSConfigs.h"
+    #import "UIView+Debug.h"
+    #import "UIBarButtonItem+Theme.h"
+    #import "UIViewController+Theme.h"
+    #import "UINavigationBar+Theme.h"
+    #import "UIButton+Icon.h"
+    #import "QYSButtonGroup.h"
+    #import "QYSPopupView.h"
+    #import <SQToolsKit/SQToolsKit.h>
+    #import <QieyouMerchantKit/QieyouMerchantKit.h>
+    #import <SDWebImage/UIImageView+WebCache.h>
+    #import <JDStatusBarNotification/JDStatusBarNotification.h>
+    #import "MJRefresh.h"
+    #import "BMYCircularProgressView.h"
+    #import "UIScrollView+BMYPullToRefresh.h"
+    #import "UIHelper.h"
+    #import <MBProgressHUD/MBProgressHUD.h>
+    #import <BlocksKit/BlocksKit+UIKit.h>
+    #define MCANIMATE_SHORTHAND
+    #import <POP+MCAnimate/POP+MCAnimate.h>
+    #import <IQKeyboardManager/IQKeyboardManager.h>
+
+#endif

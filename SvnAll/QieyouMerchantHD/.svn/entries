@@ -1,0 +1,126 @@
+10
+
+dir
+1409
+svn://liuxiang@192.168.1.188/ios/src/trunk/QieyouMerchantHD
+svn://liuxiang@192.168.1.188/ios
+
+
+
+2015-04-28T10:31:37.109532Z
+656
+lisaiqiang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ff64b28-d3e5-4819-8d00-246157ec4e00
+
+Tools
+dir
+
+QieYouShop.xcodeproj
+dir
+
+Podfile
+file
+
+
+
+
+2015-09-14T15:04:43.000000Z
+a8490e7620dfc8ff3e1672e3b31de76e
+2015-04-28T10:31:37.109532Z
+656
+lisaiqiang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+261
+
+Pods
+dir
+
+QieYouShop
+dir
+
+resource
+dir
+
+QieYouShopTests
+dir
+
+docs
+dir
+
+modules
+dir
+
+libs
+dir
+
+Podfile.lock
+file
+
+
+
+
+2015-09-14T15:04:43.000000Z
+f745542e1534432ce9ddb38bbf17f05e
+2015-04-28T10:31:37.109532Z
+656
+lisaiqiang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2584
+
+QieYouShop.xcworkspace
+dir
+
